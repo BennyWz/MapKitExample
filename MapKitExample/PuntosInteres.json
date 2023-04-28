@@ -1,0 +1,31 @@
+{
+    "anotaciones":[
+        {
+            "title": "Angel de la independencia"
+            "image": "mustache.fill"
+            "description" "El Monumento a la Independencia o Columna de la Independencia es una columna honoraria que se encuentra en la Ciudad de México, en la glorieta localizada en la confluencia de la avenida Paseo de la Reforma y las calles Río Tíber y Florencia."
+            "coordenadas":{
+                "latitude": "19.427192540977952",
+                "longitude": "-99.16761010272332"
+            }
+        }
+        {
+            "title": "Wizeline"
+            "image": "wake.circle.fill"
+            "description" "Wizeline es una empresa de tecnología B2B que ofrece soluciones de software para sus clientes por medio de inteligencia artificial y Big Data. La empresa facilita el diagnóstico de sus problemas, ayuda a la toma de decisiones sobre qué productos tecnológicos lanzar y en qué momento, así como para saber a qué recurso invertir dentro de las compañías por medio de plataformas en la nube.",
+            "coordenadas":{
+                "latitude": "19.427579323297334",
+                "longitude": "-99.16523760351419"
+            }
+        }
+        {
+            "title": "BAZ"
+            "image": "wake.circle.fill"
+            "description" "Wizeline es una empresa de tecnología B2B que ofrece soluciones de software para sus clientes por medio de inteligencia artificial y Big Data. La empresa facilita el diagnóstico de sus problemas, ayuda a la toma de decisiones sobre qué productos tecnológicos lanzar y en qué momento, así como para saber a qué recurso invertir dentro de las compañías por medio de plataformas en la nube.",
+            "coordenadas":{
+                "latitude": "19.305005107891553",
+                "longitude": "-99.2036122979503"
+            }
+        }
+    ]
+}
